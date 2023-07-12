@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/ /back/
+Sitemap: https://quentin.cezdigit.com/sitemap.xml
